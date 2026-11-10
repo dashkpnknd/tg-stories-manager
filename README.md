@@ -75,3 +75,7 @@ Environment=PYTHONUNBUFFERED=1
 [Install]
 WantedBy=multi-user.target
 ```
+
+## Связи и границы проекта
+
+Это основной проект для очереди и публикации Telegram Stories нескольких аккаунтов и каналов. `tg-stories-queue-bot` — отдельная копия кода; основной сценарий следует развивать здесь.
